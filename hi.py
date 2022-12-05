@@ -1,2 +1,1 @@
 print("ali")
-print("Pallab")
